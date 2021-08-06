@@ -10,8 +10,8 @@ import java.util.List;
 
 public class Bot extends TelegramLongPollingBot {
 
-    private static final String TOKEN = "1708607859:AAH6OGOyCHWXu7Is5OPCJWkCVTfud6h3hAg";
-    private static final String USERNAME = "Belakryly_bot";
+    private static final String TOKEN = ;
+    private static final String USERNAME = ;
 
     public void onUpdateReceived(Update update) {
         if(update.hasMessage()){
